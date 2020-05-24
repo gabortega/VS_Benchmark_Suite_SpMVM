@@ -1,4 +1,4 @@
-# VS2019_SpMV_OpenCL_Implementation
+# VS_Benchmark Suite_SpMV
 Repository containing a VS2019 solution for testing out different SpMV solutions in OpenCL with the VS CUDA Profiler
 
 -------------------------------- Installation --------------------------------
